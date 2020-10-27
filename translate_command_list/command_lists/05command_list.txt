@@ -1,0 +1,16 @@
+#### GitHub, VSCodiumを使ってみる
+# コマンド1 ディレクトリ移動
+cd ~/github
+
+# コマンド2 GitHubからプログラムをダウンロード
+git clone https://github.com/HumanAcademy-AI-Cource/05Python.git
+
+# コマンド3 ディレクトリ移動
+cd 05Python
+
+#### PC内でPythonプログラムを実行してみよう
+# コマンド4 Pythonプログラムの実行(05ディレクトリ内で)
+python sample1.py
+
+# コマンド5 VScodiumでディレクトリ(フォルダ)を開く
+codium ~/github/05Python

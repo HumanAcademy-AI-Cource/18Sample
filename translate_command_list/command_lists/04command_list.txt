@@ -1,0 +1,23 @@
+#### Google Colabratoryにアクセスする
+# アドレス
+https://colab.research.google.com/drive/1CG8CJDrNpz3p3_mYHDUW-YDD7zAWk-Le?usp=sharing
+
+#### GitHub, VSCodiumを使ってみる
+# コマンド1 ディレクトリ作成
+mkdir ~/github
+
+# コマンド2 ディレクトリ移動
+cd ~/github
+
+# コマンド3 GitHubからプログラムをダウンロード
+git clone https://github.com/HumanAcademy-AI-Cource/04GitPractice.git
+
+# コマンド4 ディレクトリ移動
+cd 04GitPractice
+
+# コマンド5 VScodiumでファイルを開く
+codium sample.txt
+
+#### PC内でPythonプログラムを実行してみよう
+# コマンド6 Pythonプログラムの実行(04GitPracticeディレクトリ内で)
+python sample.py
